@@ -1,4 +1,4 @@
-# Welcome to traviGo 👋
+# Welcome to travelaAdvisor 👋
 
 A ReactJS TraviGo Web App made with the RapidAPI's TravelAdvisor API and Google Maps API
 
